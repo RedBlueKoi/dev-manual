@@ -10,13 +10,21 @@ Below you can find the list of things that would most likely be applicable no ma
 
 ## Tools
 
-- Terminal / Console aka Command Line Input(CLI)
-- Brew and package managers
+- [Terminal / Console aka Command Line Input(CLI)](./basics/terminal.md)
+- [Brew and package managers](./basics/package-managers.md)
 - [Git](./basics/git.md)
-- GitHub / GitLab
-- Text Editor / IDE
-- Kanban / Github Issues / Jira aka Task management
+- [GitHub / GitLab](./basics/github.md)
+- [Text Editor / IDE](./basics/editors.md)
+- [Kanban / Github Issues / Jira aka Task management](./basics/task-management.md)
 ## Concepts
 
 - [Information search](./basics/information-search.md)
-- The generic developer workflow
+- [The generic developer workflow](./basics/workflow.md)
+
+## Next steps
+At this point you should have a pretty good understanding of basics that are applicable to any field you would want to work in. Now you might want to choose the field you want to join. You can choose one of the following:
+- [Web development](./web/index.md)
+  - [Frontend](./web/frontend/index.md)
+    - [React](./web/frontend/react.md)
+    - [Vue](./web/frontend/vue.md)
+  - [Backend](web/backend/index.md)
